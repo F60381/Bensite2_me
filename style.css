@@ -599,7 +599,7 @@ footer p {
    MOBILE RESPONSIVE
 ========================== */
 
-@media (max-width: 768px) {
+@media (max-width: 600px) {
 
   section {
     padding: 60px 5%;
